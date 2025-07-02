@@ -1,0 +1,75 @@
+.contact-page {
+    font-family: sans-serif;
+}
+
+.contact-hero h1 {
+    font-size: 40px;
+    font-weight: bold;
+    margin-bottom: 30px;
+    
+}
+
+.contact-content {
+    padding: 40px 20px;
+    text-align: center;
+    
+}
+
+
+.form {
+    display: flex;
+    flex-direction: column;
+    box-sizing: border-box;
+    border: 1px solid black;
+    align-items: center;
+    width: 400px;
+    margin: 20px auto;
+    padding: 20px;
+    box-shadow: 0px 0px 8px rgba(0, 0, 0, 0.2);
+    background-color: #fff;
+    border-radius: 8px;
+    margin-right: 50px;
+    
+
+}
+
+.form input,
+.form textarea {
+    width: 100%;
+    padding: 10px;
+    font-size: 14px;
+    margin-bottom: 10px;
+    border-radius: 4px;
+    border: 1px solid #ccc;
+}
+
+.form textarea {
+    resize: none;
+    height: 80px;
+}
+
+.send-btn {
+    padding: 10px 20px;
+    font-size: 16px;
+    background-color: black;
+    color: white;
+    cursor: pointer;
+    border: none;
+    border-radius: 4px;
+}
+
+.contact-body{
+    display: flex;
+    margin-top: 30px;
+    gap: 100px;
+    justify-content: center;
+    align-items: flex-start;
+    flex-wrap: wrap;
+}
+.contact-info{
+    font-size: 16px;
+    width: 300px;
+    /* text-align: left; */
+    line-height: 3.5;
+
+}

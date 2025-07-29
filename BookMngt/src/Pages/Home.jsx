@@ -72,7 +72,7 @@ const Home = () => {
                                             flexDirection: "column",
                                             justifyContent: "center",
                                             alignItems: "center",
-                                            width: "300px",
+                                            width: "280px",
                                             textAlign: "center",
                                             borderRadius: "10px",
                                             marginLeft: "15px",

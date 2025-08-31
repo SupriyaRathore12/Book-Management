@@ -2,6 +2,11 @@
 
 A sleek and responsive Book Management interface built using **React.js**. This frontend-only application allows users to add, update, and remove book entries — perfect for managing personal or demo book lists.
 
+## 📸 Screenshots
+
+<img width="100%" alt="Screenshot of Book Management UI" src="https://github.com/user-attachments/assets/a22e93c5-0047-4182-8c2a-cf16c6d4837c" />
+
+
 ## ✨ Features
 
 - 📖 Add new books with title, author, and genre
@@ -15,10 +20,6 @@ A sleek and responsive Book Management interface built using **React.js**. This 
 - **React.js** (Functional Components & Hooks)
 - **CSS / Bootstrap**
 - No backend — frontend UI only
-
-## 📸 Screenshots
-
-<img width="100%" alt="Screenshot of Book Management UI" src="https://github.com/user-attachments/assets/a22e93c5-0047-4182-8c2a-cf16c6d4837c" />
 
 ## 📍 Live Demo
 
